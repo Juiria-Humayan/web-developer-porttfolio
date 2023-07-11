@@ -15,12 +15,17 @@ font-weight: 700;
 color: white;
 padding: 15px 35px;
 }
+.header{
+     background-color: #fff8f3;
+}
+
 
 /* nav related style */
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 .nav-titte{
     color: #181818;
@@ -41,4 +46,13 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+   
+}
+.banner .hardy{
+width: 200px;
 }
