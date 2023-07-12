@@ -19,7 +19,7 @@ padding: 15px 35px;
      background-color: #fff8f3;
      background-image: url('../images/header_bg.png');
      background-repeat: no-repeat;
-     background-position: bottom;
+     background-position: bottom right,top left;
 }
 .section-tittle{
     color: #181818;
@@ -177,5 +177,5 @@ footer{
 }
 .social-links a{
     margin right: 25px;
-    
-}
+
+}\
